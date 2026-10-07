@@ -1,0 +1,26 @@
+Allineami è il timer per chi porta gli allineatori dentali trasparenti (mascherine).
+
+Di solito l'ortodontista chiede di portarli 22 ore al giorno: restano 2 ore per mangiare, lavare i denti e pulire le mascherine. Allineami tiene il conto per te: tocca "Togli Allineatore" quando le togli e "Monta Allineatore" quando le rimetti.
+
+LA MIA STORIA
+Ho fatto un percorso con le mascherine di allineamento trasparenti e non è stato sempre facile ricordarmi di rimetterle dopo i pasti. Così ho creato Allineami per aiutarmi: grazie ai promemoria sono arrivato alla fine del trattamento. Ora la offro gratis a chiunque stia facendo lo stesso percorso.
+
+COSA FA
+• Anello del tempo rimanente: verde, arancione o rosso, con l'avviso "OVER" se sfori
+• Riepilogo del giorno: ore portate, ore senza mascherine, sessione in corso
+• Cronometro sempre visibile nelle notifiche mentre le mascherine sono tolte
+• Promemoria ogni 15 minuti finché le mascherine sono tolte
+• Statistiche settimanali con grafico rispetto al tuo obiettivo
+• Modifica o elimina i giorni passati
+• Export CSV da mostrare all'ortodontista ai controlli
+• Obiettivo personalizzabile da 10 a 23 ore al giorno
+
+PRIVACY
+Nessun account, nessuna connessione a internet, nessuna pubblicità, nessun tracciamento. I tuoi dati restano solo sul tuo telefono.
+
+OPEN SOURCE
+Il codice è pubblico con licenza GPL-3.0.
+
+Allineami è uno strumento di promemoria e non è un dispositivo medico: segui sempre le indicazioni del tuo ortodontista.
+
+Realizzata da RootLabs · crescentinistudio.it

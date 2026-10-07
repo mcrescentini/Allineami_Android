@@ -1,0 +1,26 @@
+Allineami is a timer for people wearing clear dental aligners.
+
+Orthodontists usually ask you to wear aligners 22 hours a day, leaving 2 hours for eating, brushing your teeth and cleaning them. Allineami keeps count for you: tap "Togli Allineatore" when you take them out and "Monta Allineatore" when you put them back in.
+
+MY STORY
+I went through a clear aligner treatment and it wasn't always easy to remember to put my aligners back in after meals. So I built Allineami to help myself: thanks to its reminders I made it to the end of my treatment. Now I'm offering it for free to anyone on the same journey.
+
+FEATURES
+• Ring showing the time you have left: green, orange or red, with an "OVER" warning
+• Daily summary: hours worn, hours out, current session
+• Chronometer always visible in your notifications while aligners are out
+• Reminders every 15 minutes while your aligners are out
+• Weekly statistics with a chart against your goal
+• Edit or delete past days
+• CSV export to show your orthodontist at check-ups
+• Adjustable goal from 10 to 23 hours a day
+
+PRIVACY
+No account, no internet connection, no ads, no tracking. Your data stays on your phone only.
+
+OPEN SOURCE
+The source code is public under the GPL-3.0 license.
+
+The app's interface is in Italian. Allineami is a reminder tool, not a medical device: always follow your orthodontist's instructions.
+
+Made by RootLabs · crescentinistudio.it

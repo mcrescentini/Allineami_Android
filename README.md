@@ -48,7 +48,8 @@ Allineami **collects no data**: no account, no internet connection, no ads or tr
 │   ├── data/          Storage, dates, CSV, timer logic
 │   ├── notify/        Chronometer notification, reminders, reboot handling
 │   └── ui/            Jetpack Compose screens
-├── store/             Play Store icon
+├── store/             Play Store icon and feature graphics
+├── fastlane/          Google Play listing texts and images
 ├── docs/screenshots/
 └── PRIVACY.md
 ```

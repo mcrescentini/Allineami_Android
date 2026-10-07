@@ -86,16 +86,8 @@ fun StatsScreen() {
 
     fun removed(date: LocalDate) = removedByDay[DateUtils.dayKey(date)] ?: 0
 
-    // Hours worn: real day length (23/25 h on DST changes); for today, only the time elapsed so far
-    val today = DateUtils.today()
-    fun worn(date: LocalDate): Int {
-        val dayLength = if (date == today) {
-            ((System.currentTimeMillis() - DateUtils.startOfDay(date)) / 1000).toInt()
-        } else {
-            DateUtils.daySeconds(date)
-        }
-        return maxOf(0, dayLength - removed(date))
-    }
+    // Hours worn: real day length (23/25 h on DST changes) minus the time out
+    fun worn(date: LocalDate): Int = maxOf(0, DateUtils.daySeconds(date) - removed(date))
     fun hasData(date: LocalDate) = removedByDay.containsKey(DateUtils.dayKey(date))
     val daysWithData = weekDays.filter { hasData(it) }
 
